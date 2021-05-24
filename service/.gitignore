@@ -1,0 +1,8 @@
+# Holochain
+.hc
+.cargo
+
+# Rust
+debug
+target
+**/*.rs.bk
